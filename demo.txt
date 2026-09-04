@@ -1,1 +1,1 @@
-python-shell scriptng
+shell scriptng
